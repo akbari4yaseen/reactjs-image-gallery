@@ -1,10 +1,12 @@
 # Image Gallery
 
-a small react and tailwind css project
+A small react and tailwind css project
 <br />
 <br />
 ![Alt text](screenshot.png?raw=true)
-
+<br />
+If you liked this project, so you can Star ⭐ the repo.
+<br />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
