@@ -1,6 +1,9 @@
 # Image Gallery
 
 a small react and tailwind css project
+<br />
+<br />
+![Alt text](screenshot.png?raw=true)
 
 # Getting Started with Create React App
 
